@@ -2,4 +2,4 @@
 
 # test-ci
 
-With a python script.
+This is how a python project with unit testing using [travis](https://travis-ci.com/) might look like.

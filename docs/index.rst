@@ -10,7 +10,7 @@ Welcome to vanilla-python-ci's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   vanilla-python-ci
 
 Indices and tables
 ==================

@@ -4,4 +4,10 @@
 vanilla-python-ci
 =================
 
-* Unit testing using [travis](https://travis-ci.com/)
+This repository is a template for python projects. It features:
+
+* unit testing using [Travis](https://travis-ci.com/)
+* documentation using [Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
+* code coverage
+* badges for the above
+* a concise folder structure

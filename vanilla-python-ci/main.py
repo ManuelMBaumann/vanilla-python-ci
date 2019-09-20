@@ -1,7 +1,7 @@
 import numpy as np
 
 def calc_square(x):
-    '''A simple function.
+    r'''A simple function.
     
     Parameters
     ----------

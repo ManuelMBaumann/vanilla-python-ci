@@ -8,6 +8,7 @@ This repository is a template for python projects. It features:
 
 * unit testing using [Travis](https://travis-ci.com/)
 * documentation using [Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
+* a [project homepage]() using [GitHub pages](https://pages.github.com/)
 * code coverage
 * badges for the above
 * a concise folder structure

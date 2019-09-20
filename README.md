@@ -9,4 +9,4 @@ TODOs:
 ------
 
 * Use [nosetest](https://nose.readthedocs.io/en/latest/testing.html) for unit testing
-* Add documentation using [Spinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html) for [Read the Docs](https://readthedocs.org/)
+* Add documentation using [Sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html) for [Read the Docs](https://readthedocs.org/)

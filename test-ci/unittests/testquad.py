@@ -1,5 +1,7 @@
-from mytest import calc_square
 import sys
+sys.path.append('../')
+from main import calc_square
+
 
 a  = 3
 a2 = calc_square(a)

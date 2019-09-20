@@ -6,6 +6,8 @@
 Welcome to vanilla-python-ci's documentation!
 =============================================
 
+Intro and install explanation comes here.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

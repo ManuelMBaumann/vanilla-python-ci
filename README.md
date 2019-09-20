@@ -11,6 +11,5 @@ This repository is a template for python projects. It features:
 * a [project homepage](http://manuelbaumann.de/vanilla-python-ci/) using [GitHub pages](https://pages.github.com/)
 * code in `vanilla-python-ci` in PEP 8 standard 
 * code coverage
-* PyPI and `setup.py`  
-* badges for the above
-* a concise folder structure
+* PyPI and `setup.py` 
+* release using [Zenodo](https://guides.github.com/activities/citable-code/)

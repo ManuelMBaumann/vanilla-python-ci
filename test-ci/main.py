@@ -1,4 +1,4 @@
 import numpy as np
 
 def calc_square(x):
-  return x**2
+  return np.power(x, 2)

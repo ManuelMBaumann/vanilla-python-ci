@@ -1,10 +1,17 @@
 import sys
 sys.path.append('../')
 from main import calc_square
+import unittest
 
-a  = 3
-b = calc_square(a)
 
-if (b==9):
-   sys.exit(0)
-sys.exit(1)
+class MyTests(unittest.TestCase):
+    
+    def setUp(self):
+        self.a = 3
+        
+    def test_square(self):
+        b = calc_square(self.a)
+        self.assertTrue( b == 9)
+
+if __name__ == '__main__':
+    unittest.main()

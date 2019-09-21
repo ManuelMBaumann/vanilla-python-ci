@@ -1,7 +1,7 @@
 vanilla-python-ci
 =================
 
-Automatically generated from code documentation.
+The information below is automatically generated from the docstring in our code documentation.
 
 .. automodule:: vanilla-python-ci.main
 

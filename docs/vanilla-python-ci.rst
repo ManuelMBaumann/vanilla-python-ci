@@ -8,8 +8,7 @@ The information below is automatically generated from the docstring in our code 
 .. autofunction:: vanilla-python-ci.main.calc_square
 
 
-This is an example for including Python code::
+This is an example for including code::
 
-.. code-block:: pycon
-    >>> calc_sqaure(3)
+    >>> calc_square(3)
     9

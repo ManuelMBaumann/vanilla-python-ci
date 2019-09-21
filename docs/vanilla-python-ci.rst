@@ -6,3 +6,9 @@ The information below is automatically generated from the docstring in our code 
 .. automodule:: vanilla-python-ci.main
 
 .. autofunction:: vanilla-python-ci.main.calc_square
+
+
+This is an example::
+
+    >>> calc_square(3)
+    9

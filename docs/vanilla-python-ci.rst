@@ -11,6 +11,5 @@ The information below is automatically generated from the docstring in our code 
 This is an example for including Python code::
 
 .. code-block:: pycon
-
     >>> calc_sqaure(3)
     9

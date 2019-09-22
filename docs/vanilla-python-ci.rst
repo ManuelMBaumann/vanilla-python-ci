@@ -10,7 +10,7 @@ The information below is automatically generated from the docstring in our code 
     :members:
 
 
-This is an example for including code::
+This is an example for including code using reStructuredText::
 
     >>> calc_square(3)
     9

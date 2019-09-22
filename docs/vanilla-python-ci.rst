@@ -3,14 +3,11 @@ vanilla-python-ci
 
 The information below is automatically generated from the docstring in our code documentation.
 
-.. automodule:: vanilla-python-ci.main
-    :members:
+.. currentmodule:: vanilla-python-ci.main
 
-.. autofunction:: vanilla-python-ci.main.calc_square
-    :members:
+.. autofunction:: calc_square
 
-
-This is an example for including code using reStructuredText::
+This is an example how to including code using reStructuredText::
 
     >>> calc_square(3)
     9

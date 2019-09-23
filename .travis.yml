@@ -10,5 +10,5 @@ install:
 # command to run tests
 script:
   - (cd vanilla-python-ci/unittests/ && python testquad.py)
-  - (cd .. && coverage run main.py)
+  - (cd vanilla-python-ci/ && coverage run main.py)
   - 'bash <(curl -s https://codecov.io/bash)'

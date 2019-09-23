@@ -7,7 +7,7 @@ vanilla-python-ci
 
 This repository is a template for python projects. It features:
 
-* automated unit testing using [Travis](https://travis-ci.com/), and specified in `.travis.yml`
+* automated unit testing using [Travis](https://travis-ci.com/), as specified in `.travis.yml`
 * documentation using [Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html) located in `/docs`
 * a [project homepage](http://manuelbaumann.de/vanilla-python-ci/) using [GitHub pages](https://pages.github.com/)
 * code placed in `/vanilla-python-ci` in PEP 8 standard 

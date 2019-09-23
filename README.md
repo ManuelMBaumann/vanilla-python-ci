@@ -10,6 +10,8 @@ This repository is a template for python projects. It features:
 * documentation using [Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html) located in `/docs`
 * a [project homepage](http://manuelbaumann.de/vanilla-python-ci/) using [GitHub pages](https://pages.github.com/)
 * code placed in `/vanilla-python-ci` in PEP 8 standard 
-* code coverage
+* code coverage using [codecov](https://codecov.io/)
+
+Not included, but nice:
 * PyPI and `setup.py` 
 * release using [Zenodo](https://guides.github.com/activities/citable-code/)

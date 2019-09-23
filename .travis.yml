@@ -11,4 +11,4 @@ install:
 script:
   - (cd vanilla-python-ci/unittests/ && coverage run testquad.py)
 after_success:
-  - codecov --token=e951cd8b-d4d2-46e3-adc8-83cca9ab08ac
+  - codecov -t e951cd8b-d4d2-46e3-adc8-83cca9ab08ac

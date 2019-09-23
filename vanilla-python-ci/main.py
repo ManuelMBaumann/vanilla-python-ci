@@ -16,3 +16,5 @@ def calc_square(x):
     '''
     return np.power(x, 2)
 
+def calc_square_root(x):
+    return np.sqrt(x)

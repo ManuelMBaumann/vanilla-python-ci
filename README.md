@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/ManuelMBaumann/vanilla-python-ci.svg?branch=master)](https://travis-ci.com/ManuelMBaumann/vanilla-python-ci)
 [![Documentation Status](https://readthedocs.org/projects/vanilla-python-ci/badge/?version=latest)](https://vanilla-python-ci.readthedocs.io/en/latest/?badge=latest)
+[![codecov](https://codecov.io/gh/ManuelMBaumann/vanilla-python-ci/branch/master/graph/badge.svg)](https://codecov.io/gh/ManuelMBaumann/vanilla-python-ci)
 
 vanilla-python-ci
 =================

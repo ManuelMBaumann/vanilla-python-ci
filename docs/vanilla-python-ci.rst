@@ -3,9 +3,9 @@ vanilla-python-ci
 
 The information below is automatically generated from the docstring in our code documentation.
 
-.. currentmodule:: vanilla-python-ci.main
+.. currentmodule:: vanilla-python-ci
 
-.. autofunction:: calc_square
+.. autofunction:: main.calc_square
 
 This is an example how to including code using reStructuredText::
 

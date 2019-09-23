@@ -9,6 +9,6 @@ install:
   - pip install codecov
 # command to run tests
 script:
-  - (cd vanilla-python-ci/unittests/ && python testquad.py)
+  - (cd vanilla-python-ci/unittests/ && coverage run testquad.py)
 after_success:
   - codecov --token=e951cd8b-d4d2-46e3-adc8-83cca9ab08ac

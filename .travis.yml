@@ -11,4 +11,4 @@ install:
 script:
   - (cd vanilla-python-ci/unittests/ && python testquad.py)
 after_success:
-  - codecov
+  - codecov --token=e951cd8b-d4d2-46e3-adc8-83cca9ab08ac

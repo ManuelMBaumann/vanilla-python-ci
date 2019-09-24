@@ -1,17 +1,20 @@
-import sys
-sys.path.append('../')
-from main import calc_square
-import unittest
+#!/usr/bin/env python
+"""Unit tests using unittest"""
 
+import unittest
+import sys
+from main import calc_square
+sys.path.append('../')
 
 class MyTests(unittest.TestCase):
-    
+    """Define class from unittest"""
     def setUp(self):
-        self.a = 3
-        
+        """Use setUp from unittest"""
+        self.val = 3
     def test_square(self):
-        b = calc_square(self.a)
-        self.assertTrue( b == 9)
+        """Define test function starting with test_"""
+        val2 = calc_square(self.val)
+        self.assertTrue(val2 == 9)
 
 if __name__ == '__main__':
     unittest.main()

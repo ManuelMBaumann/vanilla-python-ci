@@ -3,8 +3,9 @@
 
 import unittest
 import sys
-from main import calc_square
 sys.path.append('../')
+from main import calc_square
+
 
 class MyTests(unittest.TestCase):
     """Define class from unittest"""

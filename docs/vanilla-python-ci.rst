@@ -5,8 +5,8 @@ The information below is automatically generated from the docstring in our code 
 
 .. currentmodule:: vanilla-python-ci
 
-.. autofunction:: main.calc_square
-.. autofunction:: main.calc_square_root
+.. autofunction:: main
+    :member:
 
 This is an example how to including code using reStructuredText::
 

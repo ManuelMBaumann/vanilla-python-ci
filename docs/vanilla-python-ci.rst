@@ -6,7 +6,7 @@ The information below is automatically generated from the docstring in our code 
 .. currentmodule:: vanilla-python-ci
 
 .. autofunction:: main
-    :member:
+    :members:
 
 This is an example how to including code using reStructuredText::
 
